@@ -1,3 +1,5 @@
+## Feel free to fork and improve the model(s) 📊🙂 ... observable git usage/workflows are a plus!
+
 # Environment Setup
 
 ## Requirements
